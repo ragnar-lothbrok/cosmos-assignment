@@ -1,2 +1,4 @@
-# cosmos-assignment
-This repository contains CRUS operations using Azure Cosmos SDK.
+export COSMOS_END_POINT=
+export COSMOS_PRIMARY_KEY=
+export COSMOS_DATABASE=
+export COSMOS_CONTAINER=
